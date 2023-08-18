@@ -1,6 +1,6 @@
 # About:
 
-This is a study project, an online chat application in real time developed with Spring Boot that uses websockets and in which it is possible to enter several users and send messages simultaneously, in addition to automatically notifying the entry and exit of users.
+This is a study project, an online chat application in real time developed with Spring Boot that uses WebSockets and in which it is possible to enter several users and send messages simultaneously, in addition to automatically notifying the entry and exit of users.
 
 ## Technologies used:
 
@@ -14,8 +14,8 @@ This is a study project, an online chat application in real time developed with 
 
 ## Installation: 
 
-Clone the repository to your computer.
-Open a terminal in the root folder of the project and run the following command to compile and package the application:
+- Clone the repository to your computer.
+- Open a terminal in the root folder of the project and run the following command to compile and package the application:
 ```
 mvn clean package
 ```
@@ -30,3 +30,5 @@ http://localhost:8080
 - Run and enjoy :D
 
 ## Application demo:
+
+![websocket-chat-app](https://github.com/RiannReis/chat-app/assets/106779395/d7c8dec6-636e-4a18-a3d0-9e619c3dace4)
